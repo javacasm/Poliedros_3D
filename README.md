@@ -13,6 +13,8 @@ Al ser polígonos regulares, podemos usar cualquier longitud de varilla, puesto 
 
 Yo estoy utilizando varillas de maderas de 5 y 6mm compradas en las bazares, donde vienen unas 10-12 unidades de unos 30cm por algo más de 1€. El problema es que no todas son igual de gruesas y algunas están algo torcidas.
 
+![varillas](./images/varillas.jpg)
+
 He probado a imprimir los modelos directamente (pensados para varillas de 6mm) y cuesta insertar las varillas de 6mm mientras que las 5mm van sueltas.
 
 Si reescalamos las piezas al 50% podemos usar los típicos palillos de brocheta
