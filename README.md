@@ -51,3 +51,42 @@ El [montaje](https://www.youtube.com/embed/mwJmi6ByF5M) parece sencillo aunque l
 ![domo](https://github.com/TecnoLab/domocraft/raw/master/images/domo-01.png)
 
 En este punto sería interesante montar un Domo tamaño grande, para ello podemos aprender del tema con el [enorme tutorial](https://github.com/TecnoLab/domocraft/wiki) del gran @Obijuan
+
+## Manos a la obra
+
+Vamos a ir construyendo los Poliedros
+
+![caras, aristas y vértices](https://iparador.wikispaces.com/file/view/AGUA_MAT_Poliedros%20regulares.png/483898320/AGUA_MAT_Poliedros%20regulares.png)
+
+### Tetraedro
+
+* 4 [piezas impresas](http://www.thingiverse.com/download:29140)
+* 6 varillas
+
+![Tetraedro](./images/Tetraedro.jpg)
+
+### Cubo o hexaedro
+
+* 8 [piezas impresas](http://www.thingiverse.com/download:29141)
+* 12 varillas
+
+### Octaedro
+
+* 6 [piezas impresas](http://www.thingiverse.com/download:29142)
+* 23 varillas
+
+TODO
+
+### Dodecaedro
+
+* 20 [piezas impresas](http://www.thingiverse.com/download:29143)
+* 30 varillas
+
+TODO
+
+### Icosaedro
+
+* 12 [piezas impresas](http://www.thingiverse.com/download:29144)
+* 30 varillas
+
+![icosaedro](./images/icosaedro.jpg)
