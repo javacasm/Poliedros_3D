@@ -52,6 +52,10 @@ El [montaje](https://www.youtube.com/embed/mwJmi6ByF5M) parece sencillo aunque l
 
 En este punto sería interesante montar un Domo tamaño grande, para ello podemos aprender del tema con el [enorme tutorial](https://github.com/TecnoLab/domocraft/wiki) del gran @Obijuan
 
+Otro [modelo de domo](http://www.thingiverse.com/thing:2040867/) realizado por @Mecano
+
+![domo2](http://thingiverse-production-new.s3.amazonaws.com/renders/02/7c/2e/58/5b/b2d4019d0442e6219a3e651b057cedbb_preview_featured.jpg)
+
 ## Manos a la obra
 
 Vamos a ir construyendo los Poliedros
